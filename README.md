@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Github: https://salmandada.github.io/Youtube-Clone/
 
-Netlify: 
+Netlify: https://nostalgic-bassi-fd06af.netlify.app
 
 ## Available Scripts
 
